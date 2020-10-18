@@ -1,0 +1,68 @@
+a:hover {
+  text-decoration: none;
+}
+body {
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  list-style-type: none;
+  padding: 5px;
+}
+
+.current-emoji .fa-cloud-showers-heavy {
+  font-size: 100px;
+  margin-right: 20px;
+}
+
+.current-temp {
+  font-size: 60px;
+}
+
+.day-of-the-week {
+  font-size: 20px;
+  text-align: center;
+}
+
+.fa-bolt,
+.fa-cloud-rain,
+.fa-cloud-showers-heavy,
+.fa-cloud-sun {
+  color: #222831;
+  font-size: 60px;
+  text-align: center;
+}
+
+.forecast {
+  font-size: 20px;
+  text-align: center;
+}
+
+.units {
+  position: relative;
+  top: -28px;
+}
+
+.current-time {
+  font-size: 20px;
+}
+
+.weather-app {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+  border: none;
+  border-radius: 12px;
+  box-shadow: 5px 5px 10px rgb(165, 137, 141);
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 23px;
+}
+
+.weather-description {
+  font-size: 20px;
+}
